@@ -12,3 +12,5 @@ fi
 
 # Customize to your needs...
 
+unsetopt correct
+unsetopt correct_all
