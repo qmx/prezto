@@ -12,6 +12,8 @@ fi
 
 # Customize to your needs...
 export LANG=en_US.UTF-8
+export EDITOR=vim
+export VISUAL=vim
 
 unsetopt correct
 unsetopt correct_all
